@@ -114,38 +114,15 @@
 
 ```python
 afnan = {
-    "university"  : "AIUB — CSE, 7th Semester",
-    "major"       : ["Data Science", "Adv. Database", "Computer Vision & PR"],
-    "minor"       : ["CVPR", "Robotics Engineering"],
+    "university"  : "AIUB — CSE, 9th Semester",
     "currently"   : ["React JS", "ASP.NET", "Machine Learning", "OpenCV"],
     "research"    : "Arsenic Contamination Prediction using Explainable ML",
-    "team"        : "AIUB Mars Rover — Software (Frontend Dashboard)",
+    "team"        : "AIUB Robotic Crew — Software (Frontend Dashboard)",
     "goal"        : "Full-funded MS/PhD abroad in AI · ML · Robotics",
-    "hackathon"   : "bKash SUST Hackathon Carnival 2026 🚀",
     "dream_company": ["Boston Dynamics", "Tesla AI", "Google DeepMind"]
 }
 ```
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Afnan-Sultan-Trino&label=Profile+Views&color=4f7cec&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <i>"A tree grows by letting old leaves fall — part of growth is the art of letting go." 🌳</i>
-</p>
---
-**Afnan-Sultan-Trino/Afnan-Sultan-Trino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
