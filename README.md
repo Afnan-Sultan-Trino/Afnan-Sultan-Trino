@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋 I'm Afnan Sultan Trino</h1>
 <h3 align="center">CSE Undergrad @ AIUB · AI/ML Enthusiast · Aspiring Researcher</h3>
