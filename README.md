@@ -13,7 +13,7 @@
 
 - 🎓 Currently studying **B.Sc. in CSE** at **American International University-Bangladesh (AIUB)**
 - 🤖 Passionate about **AI · Machine Learning · Deep Learning · Computer Vision · Robotics**
-- 🌱 Currently learning **React JS · ASP.NET · Data Science · OpenCV**
+- 🌱 Currently learning **React JS · Data Science · OpenCV**
 - 🚀 Member of **AIUB Robotic Crew (ARC)** — Software Division (Frontend Dashboard)
 - 🔬 Aspiring **Researcher** — targeting full-funded scholarships (Erasmus Mundus · Fulbright)
 - 🏆 Interested in **Hackathons · Research Publications · Open Source**
