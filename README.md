@@ -121,7 +121,7 @@
 afnan = {
     "university"  : "AIUB — CSE, 9th Semester",
     "currently"   : ["React JS", "Machine Learning", "OpenCV","Data Science"],
-    "research"    : "Arsenic Contamination Prediction using Explainable ML",
+    "research"    : "Arsenic Contamination Prediction using Explainable ML", "Ontology driven XAI framework for Nutrition Deficiency Risk Detection",
     "team"        : "AIUB Robotic Crew — Software (Frontend Dashboard)",
     "goal"        : "Full-funded MS/PhD abroad in AI · ML · Robotics",
     "dream_company": ["Boston Dynamics", "Tesla AI", "Google DeepMind"]
