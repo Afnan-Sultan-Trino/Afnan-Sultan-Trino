@@ -120,7 +120,7 @@
 ```python
 afnan = {
     "university"  : "AIUB — CSE, 9th Semester",
-    "currently"   : ["React JS", "ASP.NET", "Machine Learning", "OpenCV"],
+    "currently"   : ["React JS", "Machine Learning", "OpenCV","Data Science"],
     "research"    : "Arsenic Contamination Prediction using Explainable ML",
     "team"        : "AIUB Robotic Crew — Software (Frontend Dashboard)",
     "goal"        : "Full-funded MS/PhD abroad in AI · ML · Robotics",
